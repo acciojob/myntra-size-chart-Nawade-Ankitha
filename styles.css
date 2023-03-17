@@ -10,7 +10,7 @@ table{
 }
 td{
 	text-align:end;
-	font-weight:bold;
+/* 	font-weight:bold; */
 }
 th{
 	text-align:start;
@@ -22,4 +22,7 @@ thead{
 .one{
 	background-color:rosybrown;
 	color:white;
+}
+.two{
+	text-align:start;
 }
